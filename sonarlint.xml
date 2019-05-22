@@ -4,7 +4,7 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>df9adf93dfc9dfc9dfcedf92dfc8dfc9df9ddf9ddf93df92df9adf9ddfc9df92dfccdf9ddf9adf9edfccdf9cdf92df9ddfc9dfc8df93dfcfdf9adf9edfccdfc8dfcfdfcfdf92df9adf92df98dfcbdf9e</token>
+          <token>df9edf92df98dfcbdf9fdfcedf9ddf9fdfc9dfcfdfcbdf9ddf9edfc9dfcfdf9adf9fdfccdf9fdfc8dfccdfccdfc8df9ddfc8df9cdf9cdf9ddf99dfc9dfcedf9ddfc8df9edf9ddfcbdfcfdf9ddf9ddfcf</token>
           <option name="name" value="Amiko Digital Health SonarCloud" />
           <organizationKey>amikodh</organizationKey>
           <enableNotifications>true</enableNotifications>
