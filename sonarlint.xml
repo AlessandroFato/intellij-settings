@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9adf93dfc9dfc9dfcedf92dfc8dfc9df9ddf9ddf93df92df9adf9ddfc9df92dfccdf9ddf9adf9edfccdf9cdf92df9ddfc9dfc8df93dfcfdf9adf9edfccdfc8dfcfdfcfdf92df9adf92df98dfcbdf9e</token>
+          <option name="name" value="Amiko Digital Health SonarCloud" />
+          <organizationKey>amikodh</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
