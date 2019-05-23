@@ -1,92 +1,20 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Analyze with SonarLint">
-        <Item>
-          <IdeaActionID>SonarLint.AnalyzeFiles</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+S'</ShortCut>
-          <Description>Analyze with SonarLint</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'RespiroVisionApplication'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'RespiroVisionApplication'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'UserManagementApplication'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'UserManagementApplication'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'respiro-vision sonar'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'respiro-vision sonar'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'sonar cloud analysis'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'sonar cloud analysis'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Settings...">
+      <Statistic Action="Refresh">
         <Item>
-          <IdeaActionID>ShowSettings</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+S'</ShortCut>
-          <Description>Settings...</Description>
+          <IdeaActionID>FileChooser.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Refresh</Description>
           <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'RespiroVisionApplication'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'RespiroVisionApplication'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="TODO">
-        <Item>
-          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
-          <ShortCut>'Alt+6'</ShortCut>
-          <Description>TODO</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Terminal">
-        <Item>
-          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'Alt+F12'</ShortCut>
-          <Description>Terminal</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Version Control">
-        <Item>
-          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
-          <ShortCut>'Alt+9'</ShortCut>
-          <Description>Version Control</Description>
-          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
